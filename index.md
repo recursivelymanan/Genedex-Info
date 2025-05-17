@@ -1,4 +1,3 @@
-# PocketGene Privacy Policy
 This document outlines how the application PocketGene makes use of your data. 
 
 ## Data stored on your device
