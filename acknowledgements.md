@@ -1,6 +1,6 @@
 # Acknowledgements
 
-PocketGene would not be possible without the help of many open source libraries. Below is a list of the libraries in no particular order, along with their liscenses. Thank you to the authors of these libraries and to the open source community!
+Genedex would not be possible without the help of many open source libraries. Below is a list of the libraries in no particular order, along with their liscenses. Thank you to the authors of these libraries and to the open source community!
 
 ## React
 
