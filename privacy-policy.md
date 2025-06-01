@@ -22,6 +22,6 @@ To remove all of your data, please delete the app.
 
 ## Contact
 
-For any concerns please contact me at: genedex@gmail.com
+For any concerns please contact me at: genedex@atonal.dev
 
 Last updated May 16, 2025
